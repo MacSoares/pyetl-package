@@ -1,5 +1,5 @@
 # pyetl-package
-[![codecov](https://codecov.io/gh/Bild-Vitta-Data-Team/pyetl-package/branch/main/graph/badge.svg?token=IFMEMUDG19)](https://codecov.io/gh/Bild-Vitta-Data-Team/pyetl-package)  
+[![codecov](https://codecov.io/gh/MacSoares/pyetl-package/branch/main/graph/badge.svg?token=1GDKUDWR2N)](https://codecov.io/gh/MacSoares/pyetl-package)
 
 Ferramenta para facilitação do processo ETL feita em python
 
